@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boby900
 - 👀 I’m interested in deveops.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on python related projects.
 - 📫 How to reach me ... boby2265@gmail.com
 
