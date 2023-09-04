@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boby Tiwari</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working on **100hrs project**
-
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **JS based project**
 
