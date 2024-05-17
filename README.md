@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boby Tiwari</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://bobytiwari.netlify.app/](https://bobytiwari.netlify.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript**
