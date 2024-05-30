@@ -1,7 +1,7 @@
 - 💬 Ask me about **JavaScript, TypeScript**
 
 - 📫 How to reach me **bobyt2265@gmail.com**
-# Tech Stack:
+### TechStack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-# Socials:
+### Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/boby-tiwari-1b11a5270" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -48,7 +48,7 @@
   </a>
 </div>
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bobyt2265q) 
 
   
